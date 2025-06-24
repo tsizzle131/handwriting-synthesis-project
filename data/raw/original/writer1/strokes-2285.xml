@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<StrokeSet>
+  <Stroke>
+    <Point x="909" y="1870"/>
+    <Point x="909" y="1870"/>
+    <Point x="909" y="1846"/>
+    <Point x="909" y="1846"/>
+    <Point x="909" y="1846"/>
+    <Point x="912" y="1824"/>
+    <Point x="912" y="1824"/>
+    <Point x="912" y="1824"/>
+    <Point x="912" y="1824"/>
+    <Point x="912" y="1824"/>
+    <Point x="920" y="1864"/>
+    <Point x="920" y="1903"/>
+    <Point x="909" y="1959"/>
+    <Point x="891" y="2023"/>
+    <Point x="874" y="2096"/>
+    <Point x="858" y="2154"/>
+    <Point x="838" y="2194"/>
+    <Point x="823" y="2208"/>
+  </Stroke>
+  <Stroke>
+    <Point x="825" y="1896"/>
+    <Point x="825" y="1896"/>
+    <Point x="820" y="1881"/>
+    <Point x="820" y="1881"/>
+    <Point x="820" y="1881"/>
+    <Point x="820" y="1881"/>
+    <Point x="820" y="1881"/>
+    <Point x="820" y="1881"/>
+    <Point x="796" y="1911"/>
+    <Point x="787" y="1937"/>
+    <Point x="769" y="1971"/>
+    <Point x="761" y="2009"/>
+    <Point x="751" y="2045"/>
+    <Point x="745" y="2065"/>
+  </Stroke>
+</StrokeSet>

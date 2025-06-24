@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<StrokeSet>
+  <Stroke>
+    <Point x="567" y="915"/>
+    <Point x="567" y="915"/>
+    <Point x="554" y="906"/>
+    <Point x="554" y="906"/>
+    <Point x="533" y="913"/>
+    <Point x="533" y="913"/>
+    <Point x="508" y="938"/>
+    <Point x="498" y="957"/>
+    <Point x="488" y="986"/>
+    <Point x="483" y="1016"/>
+    <Point x="480" y="1052"/>
+    <Point x="483" y="1086"/>
+    <Point x="490" y="1119"/>
+    <Point x="503" y="1148"/>
+    <Point x="520" y="1171"/>
+    <Point x="540" y="1187"/>
+    <Point x="565" y="1196"/>
+    <Point x="583" y="1201"/>
+    <Point x="606" y="1190"/>
+    <Point x="629" y="1178"/>
+    <Point x="648" y="1161"/>
+    <Point x="665" y="1138"/>
+  </Stroke>
+  <Stroke>
+    <Point x="704" y="562"/>
+    <Point x="684" y="548"/>
+    <Point x="659" y="545"/>
+    <Point x="626" y="555"/>
+    <Point x="596" y="567"/>
+    <Point x="562" y="595"/>
+    <Point x="531" y="627"/>
+    <Point x="509" y="658"/>
+    <Point x="497" y="692"/>
+    <Point x="493" y="723"/>
+    <Point x="501" y="748"/>
+  </Stroke>
+  <Stroke>
+    <Point x="433" y="866"/>
+    <Point x="433" y="866"/>
+    <Point x="413" y="881"/>
+    <Point x="403" y="897"/>
+    <Point x="400" y="918"/>
+    <Point x="392" y="953"/>
+    <Point x="395" y="985"/>
+    <Point x="398" y="1026"/>
+    <Point x="411" y="1067"/>
+    <Point x="425" y="1109"/>
+    <Point x="445" y="1146"/>
+    <Point x="466" y="1178"/>
+    <Point x="487" y="1205"/>
+    <Point x="515" y="1220"/>
+    <Point x="539" y="1232"/>
+    <Point x="558" y="1235"/>
+    <Point x="578" y="1226"/>
+    <Point x="593" y="1214"/>
+  </Stroke>
+  <Stroke>
+    <Point x="598" y="616"/>
+    <Point x="574" y="613"/>
+    <Point x="544" y="617"/>
+    <Point x="513" y="630"/>
+    <Point x="477" y="654"/>
+    <Point x="448" y="679"/>
+    <Point x="425" y="705"/>
+    <Point x="408" y="730"/>
+    <Point x="398" y="757"/>
+    <Point x="400" y="776"/>
+    <Point x="411" y="793"/>
+  </Stroke>
+</StrokeSet>

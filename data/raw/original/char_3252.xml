@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<StrokeSet>
+  <Stroke>
+    <Point x="458" y="1284"/>
+    <Point x="460" y="1271"/>
+    <Point x="460" y="1271"/>
+    <Point x="460" y="1271"/>
+    <Point x="460" y="1271"/>
+    <Point x="460" y="1271"/>
+    <Point x="478" y="1277"/>
+    <Point x="478" y="1292"/>
+    <Point x="478" y="1292"/>
+    <Point x="481" y="1326"/>
+    <Point x="481" y="1346"/>
+    <Point x="476" y="1371"/>
+    <Point x="473" y="1394"/>
+    <Point x="470" y="1418"/>
+    <Point x="464" y="1442"/>
+    <Point x="461" y="1459"/>
+    <Point x="461" y="1459"/>
+    <Point x="472" y="1477"/>
+    <Point x="488" y="1469"/>
+  </Stroke>
+  <Stroke>
+    <Point x="722" y="1221"/>
+    <Point x="718" y="1237"/>
+    <Point x="702" y="1263"/>
+    <Point x="693" y="1286"/>
+    <Point x="684" y="1311"/>
+    <Point x="672" y="1346"/>
+    <Point x="663" y="1373"/>
+    <Point x="659" y="1402"/>
+    <Point x="660" y="1427"/>
+    <Point x="659" y="1450"/>
+    <Point x="659" y="1450"/>
+    <Point x="674" y="1463"/>
+  </Stroke>
+  <Stroke>
+    <Point x="473" y="1191"/>
+    <Point x="473" y="1191"/>
+    <Point x="458" y="1194"/>
+    <Point x="458" y="1194"/>
+    <Point x="448" y="1221"/>
+    <Point x="439" y="1248"/>
+    <Point x="437" y="1275"/>
+    <Point x="428" y="1313"/>
+    <Point x="427" y="1343"/>
+    <Point x="421" y="1379"/>
+    <Point x="419" y="1405"/>
+    <Point x="418" y="1427"/>
+    <Point x="419" y="1442"/>
+    <Point x="419" y="1442"/>
+    <Point x="442" y="1448"/>
+    <Point x="442" y="1448"/>
+    <Point x="461" y="1420"/>
+    <Point x="467" y="1402"/>
+  </Stroke>
+  <Stroke>
+    <Point x="632" y="1179"/>
+    <Point x="627" y="1195"/>
+    <Point x="627" y="1209"/>
+    <Point x="618" y="1234"/>
+    <Point x="603" y="1260"/>
+    <Point x="597" y="1287"/>
+    <Point x="582" y="1320"/>
+    <Point x="571" y="1350"/>
+    <Point x="561" y="1379"/>
+    <Point x="565" y="1394"/>
+    <Point x="564" y="1409"/>
+    <Point x="577" y="1409"/>
+  </Stroke>
+</StrokeSet>

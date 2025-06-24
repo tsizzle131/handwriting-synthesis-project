@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<StrokeSet>
+  <Stroke>
+    <Point x="856" y="755"/>
+    <Point x="855" y="729"/>
+    <Point x="855" y="729"/>
+    <Point x="841" y="702"/>
+    <Point x="843" y="689"/>
+    <Point x="843" y="689"/>
+    <Point x="843" y="689"/>
+    <Point x="843" y="689"/>
+    <Point x="847" y="719"/>
+    <Point x="846" y="761"/>
+    <Point x="849" y="814"/>
+    <Point x="847" y="883"/>
+    <Point x="846" y="962"/>
+    <Point x="844" y="1050"/>
+    <Point x="838" y="1145"/>
+    <Point x="837" y="1225"/>
+    <Point x="841" y="1299"/>
+    <Point x="844" y="1370"/>
+    <Point x="853" y="1420"/>
+  </Stroke>
+  <Stroke>
+    <Point x="933" y="1890"/>
+    <Point x="924" y="1914"/>
+    <Point x="917" y="1934"/>
+    <Point x="906" y="1952"/>
+    <Point x="891" y="1971"/>
+    <Point x="891" y="1971"/>
+    <Point x="891" y="1971"/>
+    <Point x="877" y="1980"/>
+    <Point x="877" y="1980"/>
+    <Point x="877" y="1980"/>
+    <Point x="877" y="1967"/>
+    <Point x="877" y="1967"/>
+    <Point x="877" y="1967"/>
+    <Point x="885" y="1953"/>
+    <Point x="885" y="1953"/>
+    <Point x="903" y="1935"/>
+  </Stroke>
+  <Stroke>
+    <Point x="933" y="778"/>
+    <Point x="923" y="764"/>
+    <Point x="923" y="743"/>
+    <Point x="923" y="743"/>
+    <Point x="923" y="743"/>
+    <Point x="923" y="743"/>
+    <Point x="914" y="782"/>
+    <Point x="917" y="817"/>
+    <Point x="914" y="871"/>
+    <Point x="915" y="927"/>
+    <Point x="912" y="996"/>
+    <Point x="903" y="1072"/>
+    <Point x="894" y="1148"/>
+    <Point x="889" y="1225"/>
+    <Point x="877" y="1304"/>
+    <Point x="873" y="1365"/>
+  </Stroke>
+  <Stroke>
+    <Point x="915" y="1876"/>
+    <Point x="911" y="1911"/>
+    <Point x="900" y="1944"/>
+    <Point x="894" y="1964"/>
+    <Point x="889" y="1980"/>
+    <Point x="880" y="1995"/>
+    <Point x="880" y="1995"/>
+    <Point x="880" y="1995"/>
+    <Point x="880" y="1995"/>
+    <Point x="876" y="1977"/>
+    <Point x="882" y="1959"/>
+    <Point x="882" y="1959"/>
+  </Stroke>
+</StrokeSet>

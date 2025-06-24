@@ -40,21 +40,22 @@ def get_ascii_sequences(filename):
 
 
 def collect_data():
-    fnames = []
+    stroke_fnames = []
+    transcriptions = []
+    writer_ids = []
+
+    blacklist = set(np.load('data/blacklist.npy', allow_pickle=True))
+
+    print('traversing data directory...')
     for dirpath, dirnames, filenames in os.walk('data/raw/ascii/'):
         if dirnames:
             continue
         for filename in filenames:
             if filename.startswith('.'):
                 continue
-            fnames.append(os.path.join(dirpath, filename))
+            stroke_fnames.append(os.path.join(dirpath, filename))
 
-    # low quality samples (selected by collecting samples to
-    # which the trained model assigned very low likelihood)
-    blacklist = set(np.load('data/blacklist.npy'))
-
-    stroke_fnames, transcriptions, writer_ids = [], [], []
-    for i, fname in enumerate(fnames):
+    for i, fname in enumerate(stroke_fnames):
         print(i, fname)
         if fname == 'data/raw/ascii/z01/z01-000/z01-000z.txt':
             continue

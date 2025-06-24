@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<StrokeSet>
+  <Stroke>
+    <Point x="725" y="767"/>
+    <Point x="725" y="767"/>
+    <Point x="725" y="746"/>
+    <Point x="725" y="746"/>
+    <Point x="725" y="746"/>
+    <Point x="725" y="746"/>
+    <Point x="722" y="776"/>
+    <Point x="725" y="796"/>
+    <Point x="724" y="829"/>
+    <Point x="724" y="862"/>
+    <Point x="722" y="904"/>
+    <Point x="722" y="945"/>
+    <Point x="719" y="984"/>
+    <Point x="719" y="1019"/>
+    <Point x="721" y="1050"/>
+    <Point x="719" y="1079"/>
+    <Point x="722" y="1097"/>
+    <Point x="722" y="1097"/>
+    <Point x="745" y="1115"/>
+    <Point x="761" y="1112"/>
+  </Stroke>
+  <Stroke>
+    <Point x="1054" y="793"/>
+    <Point x="1054" y="793"/>
+    <Point x="1054" y="793"/>
+    <Point x="1039" y="824"/>
+    <Point x="1028" y="853"/>
+    <Point x="1024" y="882"/>
+    <Point x="1013" y="924"/>
+    <Point x="1009" y="965"/>
+    <Point x="1001" y="1011"/>
+    <Point x="992" y="1058"/>
+    <Point x="984" y="1097"/>
+    <Point x="987" y="1130"/>
+    <Point x="980" y="1171"/>
+    <Point x="984" y="1198"/>
+  </Stroke>
+  <Stroke>
+    <Point x="724" y="900"/>
+    <Point x="724" y="900"/>
+    <Point x="722" y="873"/>
+    <Point x="722" y="873"/>
+    <Point x="722" y="873"/>
+    <Point x="722" y="873"/>
+    <Point x="721" y="903"/>
+    <Point x="721" y="928"/>
+    <Point x="715" y="965"/>
+    <Point x="710" y="1001"/>
+    <Point x="704" y="1043"/>
+    <Point x="698" y="1082"/>
+    <Point x="696" y="1117"/>
+    <Point x="692" y="1148"/>
+    <Point x="695" y="1167"/>
+    <Point x="695" y="1167"/>
+    <Point x="718" y="1185"/>
+    <Point x="739" y="1182"/>
+  </Stroke>
+  <Stroke>
+    <Point x="927" y="867"/>
+    <Point x="927" y="867"/>
+    <Point x="927" y="867"/>
+    <Point x="926" y="888"/>
+    <Point x="921" y="910"/>
+    <Point x="918" y="937"/>
+    <Point x="912" y="974"/>
+    <Point x="908" y="1010"/>
+    <Point x="903" y="1049"/>
+    <Point x="897" y="1088"/>
+    <Point x="888" y="1124"/>
+    <Point x="891" y="1150"/>
+    <Point x="886" y="1182"/>
+    <Point x="892" y="1197"/>
+  </Stroke>
+</StrokeSet>

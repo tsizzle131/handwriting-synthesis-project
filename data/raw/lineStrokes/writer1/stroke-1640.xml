@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<StrokeSet>
+  <Stroke>
+    <Point x="924" y="1307"/>
+    <Point x="924" y="1307"/>
+    <Point x="924" y="1307"/>
+    <Point x="929" y="1322"/>
+    <Point x="933" y="1344"/>
+    <Point x="941" y="1371"/>
+    <Point x="942" y="1408"/>
+    <Point x="951" y="1444"/>
+    <Point x="953" y="1500"/>
+    <Point x="957" y="1557"/>
+    <Point x="956" y="1623"/>
+    <Point x="957" y="1688"/>
+    <Point x="954" y="1747"/>
+    <Point x="954" y="1803"/>
+    <Point x="953" y="1852"/>
+    <Point x="951" y="1896"/>
+    <Point x="954" y="1916"/>
+    <Point x="954" y="1941"/>
+    <Point x="953" y="1956"/>
+    <Point x="953" y="1956"/>
+    <Point x="957" y="1943"/>
+    <Point x="962" y="1916"/>
+  </Stroke>
+  <Stroke>
+    <Point x="980" y="1049"/>
+    <Point x="987" y="1026"/>
+    <Point x="987" y="1026"/>
+    <Point x="987" y="1026"/>
+    <Point x="987" y="1026"/>
+    <Point x="987" y="1026"/>
+    <Point x="987" y="1026"/>
+    <Point x="987" y="1026"/>
+    <Point x="987" y="1026"/>
+    <Point x="987" y="1026"/>
+  </Stroke>
+  <Stroke>
+    <Point x="936" y="1231"/>
+    <Point x="935" y="1206"/>
+    <Point x="935" y="1206"/>
+    <Point x="935" y="1206"/>
+    <Point x="935" y="1206"/>
+    <Point x="929" y="1225"/>
+    <Point x="930" y="1258"/>
+    <Point x="924" y="1304"/>
+    <Point x="923" y="1350"/>
+    <Point x="917" y="1414"/>
+    <Point x="914" y="1486"/>
+    <Point x="908" y="1557"/>
+    <Point x="906" y="1625"/>
+    <Point x="903" y="1688"/>
+    <Point x="901" y="1744"/>
+    <Point x="908" y="1783"/>
+    <Point x="915" y="1824"/>
+    <Point x="917" y="1848"/>
+    <Point x="917" y="1848"/>
+    <Point x="917" y="1848"/>
+  </Stroke>
+  <Stroke>
+    <Point x="945" y="901"/>
+    <Point x="945" y="901"/>
+    <Point x="935" y="838"/>
+    <Point x="935" y="838"/>
+    <Point x="935" y="838"/>
+    <Point x="935" y="838"/>
+    <Point x="935" y="838"/>
+    <Point x="935" y="838"/>
+    <Point x="935" y="852"/>
+    <Point x="935" y="852"/>
+  </Stroke>
+</StrokeSet>

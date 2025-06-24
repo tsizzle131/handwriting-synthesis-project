@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<StrokeSet>
+  <Stroke>
+    <Point x="395" y="850"/>
+    <Point x="398" y="829"/>
+    <Point x="398" y="815"/>
+    <Point x="410" y="794"/>
+    <Point x="429" y="773"/>
+    <Point x="451" y="758"/>
+    <Point x="483" y="741"/>
+    <Point x="517" y="734"/>
+    <Point x="556" y="727"/>
+    <Point x="590" y="732"/>
+    <Point x="623" y="740"/>
+    <Point x="648" y="760"/>
+    <Point x="666" y="788"/>
+    <Point x="675" y="826"/>
+    <Point x="676" y="870"/>
+    <Point x="666" y="921"/>
+    <Point x="650" y="974"/>
+    <Point x="624" y="1029"/>
+    <Point x="593" y="1085"/>
+    <Point x="557" y="1140"/>
+    <Point x="525" y="1187"/>
+    <Point x="493" y="1226"/>
+    <Point x="470" y="1260"/>
+    <Point x="456" y="1286"/>
+    <Point x="451" y="1304"/>
+    <Point x="459" y="1314"/>
+    <Point x="478" y="1316"/>
+    <Point x="507" y="1314"/>
+    <Point x="547" y="1310"/>
+    <Point x="589" y="1301"/>
+    <Point x="637" y="1295"/>
+    <Point x="686" y="1289"/>
+    <Point x="728" y="1289"/>
+    <Point x="767" y="1292"/>
+    <Point x="804" y="1292"/>
+    <Point x="831" y="1297"/>
+    <Point x="855" y="1298"/>
+  </Stroke>
+  <Stroke>
+    <Point x="430" y="861"/>
+    <Point x="462" y="838"/>
+    <Point x="490" y="824"/>
+    <Point x="523" y="807"/>
+    <Point x="561" y="796"/>
+    <Point x="596" y="797"/>
+    <Point x="632" y="802"/>
+    <Point x="657" y="820"/>
+    <Point x="674" y="845"/>
+    <Point x="681" y="882"/>
+    <Point x="680" y="923"/>
+    <Point x="664" y="971"/>
+    <Point x="643" y="1023"/>
+    <Point x="616" y="1078"/>
+    <Point x="589" y="1129"/>
+    <Point x="559" y="1179"/>
+    <Point x="538" y="1222"/>
+    <Point x="525" y="1260"/>
+    <Point x="521" y="1292"/>
+    <Point x="530" y="1316"/>
+    <Point x="553" y="1331"/>
+    <Point x="592" y="1337"/>
+    <Point x="641" y="1339"/>
+    <Point x="699" y="1334"/>
+    <Point x="770" y="1319"/>
+    <Point x="839" y="1305"/>
+    <Point x="916" y="1281"/>
+  </Stroke>
+</StrokeSet>
