@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<WhiteboardCaptureSession>
+  <General Writer_ID="001" Date="2025-06-26" Page_ID="char_1090" />
+  <StrokeSet>
+    <Stroke colour="black" start_time="0" end_time="100">
+      <Point x="5" y="8" time="0" />
+      <Point x="369" y="8" time="1" />
+      <Point x="369" y="366" time="2" />
+      <Point x="5" y="366" time="3" />
+    </Stroke>
+  </StrokeSet>
+</WhiteboardCaptureSession>

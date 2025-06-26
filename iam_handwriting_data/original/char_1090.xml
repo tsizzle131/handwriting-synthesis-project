@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrokeSet>
+  <Stroke>
+    <Point x="5" y="8" />
+    <Point x="369" y="8" />
+    <Point x="369" y="366" />
+    <Point x="5" y="366" />
+  </Stroke>
+</StrokeSet>
